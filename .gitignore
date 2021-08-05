@@ -61,5 +61,5 @@ typings/
 # Built files
 *.js
 *.map
-*.d.ts
+!*.d.ts
 !types/**/*.d.ts
